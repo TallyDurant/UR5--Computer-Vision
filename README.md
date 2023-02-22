@@ -1,4 +1,5 @@
 Object Detection and Color Segmentation for UR-5 Robot Arm
+
 This project involves developing a system for object detection and color segmentation to allow the UR-5 robot arm to grab objects and drop them into appropriate buckets.
 
 Description
@@ -12,8 +13,13 @@ Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
-UR-5 robot arm
-Camera
-Python 3.x
-OpenCV
-TensorFlow or PyTorch
+
+- UR-5 robot arm
+
+- Camera
+
+- Python 3.x
+
+- OpenCV
+
+- TensorFlow or PyTorch
